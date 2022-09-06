@@ -5,7 +5,7 @@
 
 ## 📸 How it looks
 <div align="center">
-
+<img width="1291" alt="Zrzut ekranu 2022-09-6 o 22 13 44" src="https://user-images.githubusercontent.com/51295585/188729824-64676f0a-a363-41ba-ba63-dee19d524dc3.png">
 </div>
 
 ## ⚔ How to play this game
